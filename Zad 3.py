@@ -1,0 +1,12 @@
+a=5
+a+=6
+b=3
+b-=5
+c=9
+c*=3
+d=10
+d/=5
+print(a)
+print(b)
+print(c)
+print(d)
